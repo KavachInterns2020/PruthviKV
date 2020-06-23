@@ -1,2 +1,3 @@
 # PruthviKV
-Enclosed Class,Sequence,Use Case,Activity Diagrams
+The diagrams and wireframe enclosed are a part of the Bank Account Management System.
+
